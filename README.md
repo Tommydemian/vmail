@@ -1,24 +1,9 @@
-# vmail-typescript
+## Learning and questions: 
+Alan: 
+  Como puedo hacer el **sort de los emails con typeScript y computed(() => )**
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Chapter 2: Async work
+1. Setup => [async] setup(){
+    // Me servira para gql? 
+    <Suspense> => Allways
+}
